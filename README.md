@@ -11,7 +11,7 @@
 <h3 >
 
 <h2>Sobre</h2>
-<p align="left">Página web simples do Spotify. Feita com Next.js, Tailwind CSS, React.</p>
+<p align="left">Página web simples do Spotify. Feita com React, Next.js, Tailwind CSS.</p>
 
 <h2>Tecnologias utilizadas</h2>
 
